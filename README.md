@@ -6,10 +6,10 @@ An evidence-based AI fact verification system that retrieves relevant informatio
 - **REFUTED**
 - **INSUFFICIENT**
 
-Developed by **Kanishk Sharma**
+Developed by **Ayush Pratap Singh**
 
-**GitHub:** https://github.com/Kanish-777  
-**Email:** [kanishsharma305@gmail.com](mailto:kanishsharma305@gmail.com)
+**GitHub:** https://github.com/ayush70548-dev  
+**Email:** [ayush70548@gmail.com](mailto:ayush70548@gmail.com)
 
 <!-- Add the deployed application link here after deployment:
 **Live Demo:** https://your-deployed-project-url
@@ -533,10 +533,10 @@ Possible future improvements include:
 
 ## Developer
 
-**Kanishk Sharma**
+**Ayush Pratap Singh**
 
 GitHub:  
-https://github.com/Kanish-777
+https://github.com/ayush70548-dev
 
 Email:  
-[kanishsharma305@gmail.com](mailto:kanishsharma305@gmail.com)
+[ayush70548@gmail.com](mailto:ayush70548@gmail.com)
